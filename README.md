@@ -31,3 +31,5 @@ Assess Model Refinement: Determine if any further refinement is necessary to enh
 Consider Alternative Models: Reflect on whether there are any alternative models that could potentially offer better outcomes or complement the existing models. Evaluate their feasibility and potential impact on decision-making processes.
 Ask Critical Questions: Challenge the selected model by asking questions like, "Is this truly the best option available?" and "If so, how can we further optimize it to maximize its effectiveness?"
 Select the Champion Model: Based on your evaluation and analysis, choose the model that demonstrates the highest level of predictive accuracy, reliability, and suitability for guiding recruitment decisions.
+
+All of the tasks were completed using a mix of excel data cleaning, Date Science Agent with labs.google.com and research for modeling.
