@@ -1,6 +1,9 @@
 # Decision-Modeling
 Data for recruiting agencies to help them make decisions on recruiting top performers.
 
+Hypothesis:
+After cleansing and analysing the data the driverid, raceid, sprint date, sprint time, lap times are the best columns to determine which drivers will be the top performers.
+
 1.Task
 As part of this task, your team will embark on a journey to gather relevant data sources, ensuring their accuracy, completeness, and relevance to the investigation at hand. 
 Begin by identifying potential data sources, including logs, user accounts, system activities, and any other pertinent information related to the reported odd happenings on the server. 
