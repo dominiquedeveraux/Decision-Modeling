@@ -36,3 +36,5 @@ Ask Critical Questions: Challenge the selected model by asking questions like, "
 Select the Champion Model: Based on your evaluation and analysis, choose the model that demonstrates the highest level of predictive accuracy, reliability, and suitability for guiding recruitment decisions.
 
 All of the tasks were completed using a mix of excel data cleaning, Date Science Agent with labs.google.com and research for modeling.
+
+**Chose Decision Model: Linear Regression**
